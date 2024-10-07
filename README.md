@@ -3,7 +3,10 @@
 <h1 align="center">Hi 👋, I'm Kalish Jayasinghe</h1>
 <h3 align="center">I'm undergraduate Intractive Media student at SLIIT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalishjay&label=Profile%20views&color=0e75b6&style=flat" alt="kalishjay" /> </p>
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Intractive+Media+Student;Undergraduate+Student+at+SLIIT;UIUX+Designer;Always+learning+new+things" alt="Typing SVG"></a>
+</p>
+
+<center><p align="left"> <img src="https://komarev.com/ghpvc/?username=kalishjay&label=Profile%20views&color=0e75b6&style=flat" alt="kalishjay" /> </p></center>
 
 <table align="center">
 <tr border="none">
