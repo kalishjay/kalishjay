@@ -1,8 +1,14 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+
 <h1 align="center">Hi 👋, I'm Kalish Jayasinghe</h1>
 <h3 align="center">I'm undergraduate Intractive Media student at SLIIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalishjay&label=Profile%20views&color=0e75b6&style=flat" alt="kalishjay" /> </p>
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 I'm undergraduate at [SLIIT](SLIIT)
@@ -10,6 +16,16 @@
 - 📫 How to reach me **kalishjayasinghe@gmail.com**
 
 - ⚡ Fun fact **Call me as Videographer**
+
+</td>
+<td width="100%" align="center">
+
+  <img align="center" alt="Coding" width="500" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
